@@ -1,9 +1,3 @@
-/* Obstacle Avoiding Robot Using Ultrasonic Sensor and Arduino NANO
-
- *  Circuit Digest(www.circuitdigest.com)
-
- */
-
 
 int trigPin = 9;      // trig pin of HC-SR04
 
