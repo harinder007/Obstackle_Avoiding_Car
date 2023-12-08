@@ -3,7 +3,7 @@ int trigPin = 9;      // trig pin of HC-SR04
  
 int echoPin = 10;     // Echo pin of HC-SR04
 
- 
+  
 int revleft4 = 4;       //REVerse motion of Left motor
 int fwdleft5 = 5;       //ForWarD motion of Left motor
 int revright6 = 6;      //REVerse motion of Right motor
