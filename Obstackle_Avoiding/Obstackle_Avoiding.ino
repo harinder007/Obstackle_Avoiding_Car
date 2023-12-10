@@ -1,6 +1,6 @@
 
 int trigPin = 9;      // trig pin of HC-SR04
- 
+  
 int echoPin = 10;     // Echo pin of HC-SR04
 
   
