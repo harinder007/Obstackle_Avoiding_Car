@@ -11,7 +11,7 @@ int fwdright7 = 7;      //ForWarD motion of Right motor
 long duration, distance;
 
 
-void setup() {
+void setup() { 
 
   
 
