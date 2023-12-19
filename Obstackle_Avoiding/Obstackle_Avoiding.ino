@@ -9,7 +9,7 @@ int revright6 = 6;      //REVerse motion of Right motor
 int fwdright7 = 7;      //ForWarD motion of Right motor
 
 long duration, distance; 
- 
+  
 
 void setup() { 
 
