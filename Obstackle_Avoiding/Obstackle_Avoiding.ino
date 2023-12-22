@@ -7,7 +7,6 @@ int revleft4 = 4;       //REVerse motion of Left motor
 int fwdleft5 = 5;       //ForWarD motion of Left motor
 int revright6 = 6;      //REVerse motion of Right motor
 int fwdright7 = 7;      //ForWarD motion of Right motor
-
 long duration, distance; 
  
 
