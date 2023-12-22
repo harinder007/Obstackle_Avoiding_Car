@@ -13,6 +13,7 @@ long duration, distance;
 
 void setup() { 
 
+
   
 
   delay(random(500,2000));   // delay for random time
